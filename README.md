@@ -8,8 +8,8 @@ A simple to use Youtube to .mp3 downloader/converter written in Python.
 - Easy to use GUI in 3 languages (english, german, italian)
 - Audio quality settings
 
-## Installation
-- Just download https://github.com/alex190291/YoutubeMp3Converter/releases/download/RC/YoutubeMp3Converter_setup.exe and run.
+## Download
+- Windows: https://github.com/alex190291/YoutubeMp3Converter/releases/download/RC/YoutubeMp3Converter_setup.exe
 
 ## Running the script without the installer
 - you can run the python script directly but you need to make sure that the settings.ini 
