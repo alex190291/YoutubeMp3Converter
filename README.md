@@ -15,7 +15,7 @@ A simple to use Youtube to .mp3 downloader/converter written in Python.
 - you can run the python script directly but you need to make sure that the settings.ini 
 -is placed in "%localappdata%\Youtube Mp3 Converter\" or to change the location inside the script.
 
-###Dependencies
+### Dependencies
 -yt_dlp
 -threading
 -re
