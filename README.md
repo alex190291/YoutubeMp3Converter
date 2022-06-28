@@ -2,10 +2,12 @@
 A simple to use Youtube to .mp3 downloader/converter written in Python.
 
 ## Features
+- Easy to use GUI 
+- 3 languages (english, german, italian)
+- 3 selectable themes
 - Supports Youtube downloads based on search terms
 - Downloads and extracts audio from every site that youtube-dl supports
 - Can download playlists from Youtube
-- Easy to use GUI in 3 languages (english, german, italian)
 - Audio quality settings
 
 ## Download
